@@ -4,6 +4,11 @@ A lightweight HTTP web server built from scratch in C using TCP socket programmi
 
 This project demonstrates how a web browser communicates with a server through HTTP and how a C program can receive browser requests and serve HTML content.
 
+## 📸 Demo
+
+![HTTP Server Demo](http-server-demo.png)
+
+
 ## 🚀 Features
 
 * TCP socket creation
